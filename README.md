@@ -7,4 +7,4 @@ Hakkınızı helal edin. Atatürk'ün Türk milleti için çizdiği mutlak yolda
 
 
  
-                               -wezoxy  
+                 -wezoxy  
